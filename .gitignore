@@ -37,4 +37,4 @@ Thumbs.db
 # Build directory #
 #####################
 ./build/
-
+uv.lock
